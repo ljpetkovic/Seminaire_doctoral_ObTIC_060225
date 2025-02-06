@@ -1,7 +1,7 @@
-# Présentation *flash* du projet Charcot
+# Présentation du sujet, de l'avancement et des difficultés du projet Charcot
 
-Séminaire « Variation linguistique et Linguistique Computationnelle » — Rencontres Minutes.
+Séminaire doctoral de l'équipe-projet ObTIC (Observatoire dess textes, des idées et des corpus).
 
-* Maison de la recherche, salle 117, 12/09/2024, 9h-10h30
+* SCAI, salle 1, 06/02/2025, 10h-12h
 
-* en visio sur [Jitsi Meet](https://rendez-vous.renater.fr/lejeunegael_0bc213-a8a9f4-dd9659)# Seminaire_doctoral_ObTIC_060225
+* en visio : [`https://rendez-vous.renater.fr/motasem_bd9a88-44c6ca-adafe0`](https://rendez-vous.renater.fr/motasem_bd9a88-44c6ca-adafe0)
