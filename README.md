@@ -1,6 +1,6 @@
 # Présentation du sujet, de l'avancement et des difficultés du projet Charcot
 
-Séminaire doctoral de l'équipe-projet ObTIC (Observatoire dess textes, des idées et des corpus).
+Séminaire doctoral de l'équipe-projet ObTIC (Observatoire des textes, des idées et des corpus).
 
 * SCAI, salle 1, 06/02/2025, 10h-12h
 
